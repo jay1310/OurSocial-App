@@ -1,0 +1,36 @@
+{
+  "name": "own-social-app",
+  "version": "1.0.0",
+  "description": "An organized app",
+  "main": "app.js",
+  "scripts": {
+    "watch": "start nodemon db --ignore frontend-js --ignore public/ && start webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Shrivastava",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "axios": "^0.19.2",
+    "babel-loader": "^8.1.0",
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "csurf": "^1.11.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "marked": "^0.8.1",
+    "md5": "^2.2.1",
+    "mongodb": "^3.5.5",
+    "nodemon": "^2.0.2",
+    "sanitize-html": "^1.22.1",
+    "socket.io": "^2.3.0",
+    "validator": "^12.2.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
