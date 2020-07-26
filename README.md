@@ -3,7 +3,7 @@
 Project url : https://oursocial.herokuapp.com/
 Go to the project: [Click here](https://oursocial.herokuapp.com/)
 
-##INTRODUCTION:
+## INTRODUCTION:
 Our Social App is a social platform where users can perform following actions:
 1. Register for a new account.
 2. Login/Logout.
@@ -16,16 +16,17 @@ Our Social App is a social platform where users can perform following actions:
 
 ```The database contains all the sensitive information in hashed form which enhance the security.```
 
-##TECHNOLOGY USED:
+## TECHNOLOGY USED:
 1. Javascript 
 2. Node.js 
 3. Mongodb (No SQL database)
 4. Express framework
 
-Project Setup:
+## Project Setup:
 1. Clone the repository.
 2. Run this command to install all the required dependencies ```npm install```
 3. Run the project using command ```npm run watch```
 
-
+## SCREENSHOTS
+https://raw.githubusercontent.com/jay1310/OurSocial-App/master/screenshots/index.JPG
 
