@@ -35,24 +35,26 @@ Index page:
 
 Homepage:
 
-![homepage](https://{user-images.githubusercontent.com/64154442/88482776-2feccb80-cf81-11ea-855a-f0f88dd1c9a8.JPG})
+![homepage](https://user-images.githubusercontent.com/64154442/88482776-2feccb80-cf81-11ea-855a-f0f88dd1c9a8.JPG)
 
 
-New Feeds:
+News Feeds:
 
-https://user-images.githubusercontent.com/64154442/88482781-33805280-cf81-11ea-9560-3d0dd1158af9.JPG
-
-
-Create Post:
-
-https://user-images.githubusercontent.com/64154442/88482792-3a0eca00-cf81-11ea-953b-c558bc978116.JPG
+![news feeds](https://user-images.githubusercontent.com/64154442/88482781-33805280-cf81-11ea-9560-3d0dd1158af9.JPG)
 
 
 Live Chat:
 
-https://user-images.githubusercontent.com/64154442/88482803-42ff9b80-cf81-11ea-9e41-662008551f02.JPG
+![live chat](https://user-images.githubusercontent.com/64154442/88482803-42ff9b80-cf81-11ea-9e41-662008551f02.JPG)
 
 
 Live Search:
 
-https://user-images.githubusercontent.com/64154442/88482799-4135d800-cf81-11ea-9209-c95aca1a937a.JPG
+![lice search](https://user-images.githubusercontent.com/64154442/88482799-4135d800-cf81-11ea-9209-c95aca1a937a.JPG)
+
+
+
+Create Post:
+
+![create post](https://user-images.githubusercontent.com/64154442/88482792-3a0eca00-cf81-11ea-953b-c558bc978116.JPG)
+
