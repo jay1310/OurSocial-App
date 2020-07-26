@@ -28,5 +28,5 @@ Our Social App is a social platform where users can perform following actions:
 3. Run the project using command ```npm run watch```
 
 ## SCREENSHOTS
-![index](/screenshots/index.jpg?raw=true)
+![index](OurSocial-App/screenshots/index.jpg?raw=true)
 ![homepage](/screenshots/homepage.jpg)
