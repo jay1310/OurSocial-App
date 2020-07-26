@@ -30,12 +30,12 @@ Our Social App is a social platform where users can perform following actions:
 ## SCREENSHOTS
 Index page:
 
-[https://user-images.githubusercontent.com/64154442/88482769-26fbfa00-cf81-11ea-8774-b76b8b34c1d9.JPG]
+![index](https://user-images.githubusercontent.com/64154442/88482769-26fbfa00-cf81-11ea-8774-b76b8b34c1d9.JPG)
 
 
 Homepage:
 
-(https://user-images.githubusercontent.com/64154442/88482776-2feccb80-cf81-11ea-855a-f0f88dd1c9a8.JPG)
+![homepage](https://{user-images.githubusercontent.com/64154442/88482776-2feccb80-cf81-11ea-855a-f0f88dd1c9a8.JPG})
 
 
 New Feeds:
